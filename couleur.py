@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# 16 couleurs de base en francais
+# 17 couleurs de base en francais
 
 argent = (192,192,192)
 blanc = (255,255,255)
@@ -20,7 +20,7 @@ vertclair = (0,128,0)
 vertolive = (128,128,0)
 violet = (128,0,128)
 
-# 164 couleurs en anglais
+# 140 couleurs en anglais
 
 aliceblue = (240,248,255)
 antiquewhite = (250,235,215)
